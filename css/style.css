@@ -31,6 +31,7 @@ button {
     text-align: center;
 }
 section {
+    /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
     display: flex;
     justify-content: center;
 }
